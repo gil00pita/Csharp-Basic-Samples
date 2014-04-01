@@ -1,0 +1,4 @@
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\UsingInterfaces\bin\Debug\UsingInterfaces.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\UsingInterfaces\bin\Debug\UsingInterfaces.pdb
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\UsingInterfaces\obj\x86\Debug\UsingInterfaces.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\UsingInterfaces\obj\x86\Debug\UsingInterfaces.pdb

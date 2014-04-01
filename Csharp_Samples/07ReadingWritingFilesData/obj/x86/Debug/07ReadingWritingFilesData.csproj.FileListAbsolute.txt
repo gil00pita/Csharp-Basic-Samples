@@ -1,0 +1,5 @@
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\ReadingWritingData\bin\Debug\ReadingWritingData.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\ReadingWritingData\bin\Debug\ReadingWritingData.pdb
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\ReadingWritingData\obj\x86\Debug\07ReadingWritingFilesData.csprojResolveAssemblyReference.cache
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\ReadingWritingData\obj\x86\Debug\ReadingWritingData.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\ReadingWritingData\obj\x86\Debug\ReadingWritingData.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\AccessModifiers\obj\x86\Debug\03AccessModifiers.csprojResolveAssemblyReference.cache
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\AccessModifiers\obj\x86\Debug\AccessModifiers.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\AccessModifiers\obj\x86\Debug\AccessModifiers.pdb

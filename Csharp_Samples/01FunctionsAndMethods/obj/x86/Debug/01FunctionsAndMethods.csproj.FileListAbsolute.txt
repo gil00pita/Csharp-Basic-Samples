@@ -1,0 +1,5 @@
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\FuncsAndMethods\obj\x86\Debug\FuncsAndMethods.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\FuncsAndMethods\obj\x86\Debug\FuncsAndMethods.pdb
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\FuncsAndMethods\bin\Debug\FuncsAndMethods.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\FuncsAndMethods\bin\Debug\FuncsAndMethods.pdb
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\FuncsAndMethods\obj\x86\Debug\01FunctionsAndMethods.csprojResolveAssemblyReference.cache

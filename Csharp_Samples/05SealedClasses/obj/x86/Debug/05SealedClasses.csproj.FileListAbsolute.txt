@@ -1,0 +1,5 @@
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\SealedClasses\bin\Debug\SealedClasses.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\SealedClasses\bin\Debug\SealedClasses.pdb
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\SealedClasses\obj\x86\Debug\05SealedClasses.csprojResolveAssemblyReference.cache
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\SealedClasses\obj\x86\Debug\SealedClasses.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\SealedClasses\obj\x86\Debug\SealedClasses.pdb

@@ -1,0 +1,4 @@
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\UsingStructs\bin\Debug\UsingStructs.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\UsingStructs\bin\Debug\UsingStructs.pdb
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\UsingStructs\obj\x86\Debug\UsingStructs.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\UsingStructs\obj\x86\Debug\UsingStructs.pdb

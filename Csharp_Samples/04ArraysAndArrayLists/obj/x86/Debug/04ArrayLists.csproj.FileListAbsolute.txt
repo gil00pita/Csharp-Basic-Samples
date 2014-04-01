@@ -1,0 +1,4 @@
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\ArrayLists\obj\x86\Debug\ArrayLists.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\ArrayLists\obj\x86\Debug\ArrayLists.pdb
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\ArrayLists\bin\Debug\ArrayLists.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\ArrayLists\bin\Debug\ArrayLists.pdb

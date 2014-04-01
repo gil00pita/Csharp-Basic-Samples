@@ -1,0 +1,4 @@
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\CharsAndStrings\obj\x86\Debug\CharsAndStrings.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\CharsAndStrings\obj\x86\Debug\CharsAndStrings.pdb
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\CharsAndStrings\bin\Debug\CharsAndStrings.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\CharsAndStrings\bin\Debug\CharsAndStrings.pdb

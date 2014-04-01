@@ -1,0 +1,5 @@
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\Loops\obj\x86\Debug\Loops.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\Loops\obj\x86\Debug\Loops.pdb
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\Loops\bin\Debug\Loops.exe
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\Loops\bin\Debug\Loops.pdb
+C:\Users\Gil\SkyDrive\Works\C#\Csharp_Samples\Csharp_Samples\Loops\obj\x86\Debug\01Loops.csprojResolveAssemblyReference.cache
